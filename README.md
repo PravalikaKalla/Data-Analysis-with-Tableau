@@ -1,2 +1,2 @@
-# Data-Analytics-with-Python
-Insights for analysis with visualisation that can support a strategy to lift the sales revenue of a hypothetical company, SuperFoodsMax retail store by 5% in two years.
+# Data-Analysis-with-Tableau
+Data analysis and visualisation with Tableau for the Data Science Job Salaries.
